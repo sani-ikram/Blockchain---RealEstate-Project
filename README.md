@@ -36,7 +36,7 @@ Listed 5 tokens on the marketplace
 Purchased those 5 tokens using a different address
 
 
-Getting Started with Zokrates
+Steps taken to implement Zokrates
 =========================================================
 Step 1: Install Docker
 Currently, Docker is the recommended way to get started with Zokrates. Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package. You can find instructions for installing it here.
