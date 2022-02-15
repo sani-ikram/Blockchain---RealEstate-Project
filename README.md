@@ -49,6 +49,7 @@ proof.json
 verifier.sol
 
 Step 4: Compile the program written in ZoKrates DSL
+  
 /path/to/zokrates compile -i <program_name>.code
 
 Step 5: Generate the Trusted Setup
