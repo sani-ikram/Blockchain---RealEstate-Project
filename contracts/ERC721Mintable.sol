@@ -35,8 +35,9 @@ contract ERC721Mintable is Ownable, ERC721Metadata {
     constructor () public { // to allocate total supply of the tokens for the contract 
         totalTokenSupply = 10;
         balanceContractToken[msg.sender] = totalTokenSupply;
-       // balanceContractToken[msg.sender].push(totalTokenSupply);
+       // Only minting one token, for more than one token I get an "Out of Gas" error
        mint(contractOwner, 22, baseURI);
+
     }
 
     function mint(address to, uint256 tokenId,string memory tokenURI) public returns (uint256){
