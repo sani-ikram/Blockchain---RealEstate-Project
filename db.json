@@ -13,7 +13,7 @@
             "name": "My NFT 1"
         }
         {
-            "id": 1,
+            "id": 2,
             "description": "My NFT",
             "external_url": "https://opensea-creatures-api.herokuapp.com/api/creature/7777",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
