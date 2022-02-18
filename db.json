@@ -2,21 +2,21 @@
 "tokens": [
 
         {
-            "token_Id": 0,
+            "id": 0,
             "description": "My NFT",
             "external_url": "https://testnets.opensea.io/assets/0xEa7AF59Ede1E7d0725614221b129CEeB58487221/0",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 0"
         },
         {
-            "token_Id": 1,
+            "id": 1,
             "description": "My NFT",
             "external_url": "https://testnets.opensea.io/assets/0xEa7AF59Ede1E7d0725614221b129CEeB58487221/1",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 1"
         },
         {
-            "token_Id": 2,
+            "id": 2,
             "description": "My NFT",
             "external_url": "https://testnets.opensea.io/assets/0xEa7AF59Ede1E7d0725614221b129CEeB58487221/2",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
