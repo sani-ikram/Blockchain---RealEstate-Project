@@ -1,26 +1,25 @@
 
-{
-    "tokens": [        
+[    
         {
-            "id": 0,
+            "token_Id": 0,
             "description": "My NFT",
             "external_url": "https://opensea-creatures-api.herokuapp.com/api/creature/4444",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 0"
         },
         {
-            "id": 1,
+            "token_Id": 1,
             "description": "My NFT",
             "external_url": "https://opensea-creatures-api.herokuapp.com/api/creature/5555",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 1"
         },
         {
-            "id": 2,
+            "token_Id": 2,
             "description": "My NFT",
             "external_url": "https://opensea-creatures-api.herokuapp.com/api/creature/7777",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 2"
-        }
-    ]
-}
+        },
+
+]
