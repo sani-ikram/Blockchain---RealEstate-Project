@@ -91,6 +91,13 @@
             "external_url": "https://testnets.opensea.io/assets/0x7CC83FFa5A8B8a6abAeEe4fCfF43487d4cac403a/77",
             "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
             "name": "My NFT 77"
+        },
+                         {
+            "id": 78,
+            "description": "My NFT",
+            "external_url": "https://testnets.opensea.io/assets/0x7CC83FFa5A8B8a6abAeEe4fCfF43487d4cac403a/78",
+            "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+            "name": "My NFT 78"
         }
         
      ]
